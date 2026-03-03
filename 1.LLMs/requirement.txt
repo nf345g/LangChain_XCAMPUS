@@ -1,0 +1,28 @@
+#'''PS C:\Jessica> python -m venv venv
+#PS C:\Jessica> venv\scripts\activate
+#Set-ExecutionPolicy Unrestricted -Scope Process'''
+#pip install -r requirement.txt
+
+#openAI integration
+langchain-openAI
+langchain
+openAI
+
+#Anthropic integration
+langchain-anthropic
+
+#Google Gemini (palm) integration
+langchain-google-genai
+google-generativeai
+
+#huggingface integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+#environment variable management
+python-dotenv
+
+#machine learning utilities
+numpy
+scikit-learn
